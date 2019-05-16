@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`extend subscrib JSX renders correctly_ 1`] = `<subscribe.geometry />`;
